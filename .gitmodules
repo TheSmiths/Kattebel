@@ -1,0 +1,3 @@
+[submodule "Kattebel-android"]
+	path = Kattebel-android
+	url = git@github.com:rpellerin/Kattebel-android.git

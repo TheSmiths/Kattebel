@@ -1,5 +1,5 @@
-[submodule "Kattebel-android"]
-	path = Kattebel-android
+[submodule "Kattebel-Android"]
+	path = Kattebel-Android
 	url = git@github.com:rpellerin/Kattebel-android.git
 [submodule "Kattebel-iOS"]
 	path = Kattebel-iOS
@@ -7,3 +7,6 @@
 [submodule "Kattebel-Web"]
 	path = Kattebel-Web
 	url = https://github.com/PierreGUI/Kattebel-webapp
+[submodule "Kattebel-Backend"]
+	path = Kattebel-Backend
+	url = https://github.com/KtorZ/kattebel
